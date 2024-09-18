@@ -174,7 +174,6 @@ display: block;
 }
 
 .visually-hidden {
-    margin-bottom: 8px;
     position: absolute;
     width: 1px;
     height: 1px;
@@ -222,6 +221,7 @@ display: block;
     padding-top: 32px;
     padding-bottom: 8px;
     padding-left: 16px;
+    margin-bottom: 8px;
 }
 .main-text {
     margin-bottom: 8px
