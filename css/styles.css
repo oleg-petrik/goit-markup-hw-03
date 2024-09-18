@@ -289,9 +289,10 @@ display: block;
     margin-bottom: 8px
 }
 /*Page Our Portfolio*/
-
-
-
+.section-portfolio{
+    padding-top: 120px;
+        padding-bottom: 120px;
+}
 .page-title{
 padding-top: 120px;
  padding-bottom: 120px;
@@ -306,6 +307,7 @@ padding-top: 120px;
     color: #2e2f42;
     padding-top: 120px;
     padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .page-images-products {
@@ -314,6 +316,7 @@ padding-top: 120px;
         gap: 24px;
         flex-wrap: wrap;
         padding-bottom: 120px;
+        row-gap: 48px;
 }
 
 .page-footer {
