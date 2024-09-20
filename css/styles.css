@@ -300,13 +300,10 @@ padding-top: 120px;
         }
 
 .app-container{
-    display: flex;
+    
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    align-items: flex-start;
-        justify-content: center;
-        flex-direction: column;
         gap: 8px
 }
 
